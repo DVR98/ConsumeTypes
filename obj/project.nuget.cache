@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ygmzkHlD0LwjyHZX4qCWHyOqFYTyHdwDmqrOujla+5n+KoJfhLtOErB50nM2exzCTQvUyWIPr2Qz/mXSfwCx2g==",
+  "success": true,
+  "projectFilePath": "D:\\Durant\\Projects\\ConsumeTypes\\ConsumeTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duran\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Office.Interop.Excel 15.0.4795.1000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Office.Interop.Excel",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
