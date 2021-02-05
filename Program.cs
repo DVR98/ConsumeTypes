@@ -14,7 +14,7 @@ namespace ConsumeTypes
             Conversions();
 
             //Using Dynamic Types: Office Automation API's
-            Console.WriteLine("Do you want to see how the Office Automation API for excel is used? Go check out the code in line 91(DisplayInExcel method).");
+            Console.WriteLine("Do you want to see how the Office Automation API for excel is used? Go check out the method declared in line 91(DisplayInExcel method).");
             //Create Excel object(records)
             //Add the following code to add reords to excel worksheet
             // var entities = new List<dynamic>
